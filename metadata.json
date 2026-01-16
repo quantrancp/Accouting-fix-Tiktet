@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AccounFix - Hệ thống Báo lỗi Kế toán",
+  "description": "Một ứng dụng chuyên nghiệp giúp nhân viên báo cáo các lỗi nghiệp vụ kế toán, hóa đơn, chứng từ để bộ phận kế toán xử lý kịp thời, tích hợp AI phân tích lỗi.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
